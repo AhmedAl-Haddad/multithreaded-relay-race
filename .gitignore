@@ -1,0 +1,14 @@
+# Ignore build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+build/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore compiled binaries
+main
